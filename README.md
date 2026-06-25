@@ -9,7 +9,7 @@ I'm building production-grade data engineering skills the hard way — by hand, 
 ## 🌟 About Me
 
 - 🎓 I graduated from the University of Connecticut with a Bachelors of Science in Data Science and Engineering.
-- 💡 REPLACE-ME — one thing you're excited to build or learn.
+- 💡 I'm excited to grow my knowledge and learn more about the cloud.
 - 📫 Reach me: www.linkedin.com/in/ariana-m-lopez
 
 ---
