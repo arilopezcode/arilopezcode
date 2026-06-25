@@ -1,4 +1,4 @@
-# Hi, I'm Ariana Lopez 👋
+# Hi, I'm Ariana Lopez!
 
 ### 🚀 Aspiring Data Engineer · TechCatalyst DE 2026
 
