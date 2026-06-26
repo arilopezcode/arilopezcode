@@ -1,6 +1,6 @@
 # Hi, I'm Ariana Lopez!
 
-I'm an Associate Data Engineer with a B.S. in Data Science & Engineering from the University of Connecticut. I enhjoy building data pipelines, solving problems with data, and continuously learning new technologies. This GitHub is where I document my projects, coursework, certifications, and everything I'm learning throughout my career.
+I'm an Associate Data Engineer with a B.S. in Data Science & Engineering from the University of Connecticut. I enjoy building data pipelines, solving problems with data, and continuously learning new technologies. This GitHub is where I document my projects, coursework, certifications, and everything I'm learning throughout my career.
 
 ---
 
